@@ -1,0 +1,1 @@
+git init;git add .;git commit -m 'add photos';git remote add origin https://github.com/jiangwd1996/BlogBackup.git ;git pull --rebase origin maste;git push -u origin master
